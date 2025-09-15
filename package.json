@@ -1,13 +1,12 @@
 {
   "name": "ejemplo-llm-1",
   "version": "1.0.0",
-  "type": "module",
   "main": "index.js",
   "scripts": {
-    "ejemplo": "node ejemplo-alumnos.js",
     "start": "node simulador-vocacional.js"
   },
   "author": "",
+  "type": "module",
   "license": "ISC",
   "description": "",
   "dependencies": {
